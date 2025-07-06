@@ -5,7 +5,7 @@ export const navItems = [
   { name: "Contact", link: "#contact" },
 ];
 
-export const gridData = [
+export const gridItems = [
   {
     id: 1,
     title: "I prioritize client collaboration, fostering open communication ",
